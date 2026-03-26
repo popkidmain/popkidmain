@@ -15,31 +15,18 @@
 ---
 
 # 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=popkidmain&theme=tokyonight&show_icons=true&cache_seconds=1800" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=popkidmain&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmain&theme=tokyonight&layout=compact" />
-</p>
+
+![Popkid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popkidmain&show_icons=true&theme=tokyonight)
+
+![Popkid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=popkidmain&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmain&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=popkidmain&theme=radical&no-frame=false&margin-w=4" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=popkidmain&limit=5&theme=dark" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=popkidmain&theme=radical)
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=popkidmain&icon=0&color=0" />
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=popkidmain&icon=0&color=0)](https://visitcount.itsvg.in)
