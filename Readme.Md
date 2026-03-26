@@ -10,19 +10,20 @@
 
 ---
 
-# 📈 Activity & Insights
+# 📈 GitHub Insights
 
-### ⚡ GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=popkidmain&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
-
-### 🛠️ Coding Profile
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=popkidmain&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmain&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=popkidmain&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="Coding Profile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmain&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
+</p>
+
+### ⚡ Activity Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=popkidmain&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 ### ✍️ Random Dev Quote
-> [!TIP]
+> [!IMPORTANT]
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 
 ---
@@ -30,7 +31,9 @@
 ### 🚀 Contribution Map
 ![Popkid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=popkidmain&theme=tokyonight&area=true)
 
-<p align="right">
-  <b>Visitor Count:</b> 
-  <img src="https://visitcount.itsvg.in/api?id=popkidmain&icon=4&color=1" align="center" />
+<br/>
+
+<p align="center">
+  <b>Profile Views:</b> 
+  <img src="https://komarev.com/ghpvc/?username=popkidmain&color=blueviolet&style=flat-square" align="center" />
 </p>
