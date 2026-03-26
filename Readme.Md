@@ -16,17 +16,31 @@
 
 # 📊 GitHub Stats
 
-![Popkid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popkidmain&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=popkidmain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Popkid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=popkidmain&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=popkidmain&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmain&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmain&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=popkidmain&theme=radical)
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=popkidmain&theme=radical" alt="GitHub Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=popkidmain&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=popkidmain&icon=0&color=0" alt="Visitor Count" />
+</a>
+</p>
